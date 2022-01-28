@@ -17,8 +17,8 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: ''
-  icon: python
-  icon_pack: fab
+  icon: "python"
+  icon_pack: "custom"
   name: Python
 - description: ''
   icon_pack: "custom"
@@ -40,6 +40,10 @@ feature:
   icon_pack: "custom"
   icon: "opencv"
   name: OpenCV
+- description: ''
+  icon_pack: "custom"
+  icon: "android"
+  name: "Android Studio"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
