@@ -53,7 +53,7 @@ feature:
   icon: "android"
   name: "Android Studio"
 - description: ''
-  icon_pack: ai
+  icon_pack: fab
   icon: unity
   name: "Unity 3D"
 
