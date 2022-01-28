@@ -4,7 +4,7 @@
 title: "My Project Name"
 summary: ""
 authors: []
-tags: []
+tags: ["a tag"]
 categories: []
 date: 2022-01-28T13:42:53+05:30
 
