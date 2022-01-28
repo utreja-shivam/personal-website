@@ -32,6 +32,10 @@ feature:
   icon_pack: "custom"
   icon: "huggingface"
   name: Transformers
+- description: ''
+  icon_pack: "custom"
+  icon: "scikit"
+  name: Scikit Learn
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
