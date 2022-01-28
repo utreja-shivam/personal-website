@@ -21,6 +21,14 @@ feature:
   icon_pack: "custom"
   name: Python
 - description: ''
+  icon: "java"
+  icon_pack: "custom"
+  name: Java
+- description: ''
+  icon: "matlab"
+  icon_pack: "custom"
+  name: MATLAB
+- description: ''
   icon_pack: "custom"
   icon: "pytorch"
   name: Pytorch
@@ -44,6 +52,10 @@ feature:
   icon_pack: "custom"
   icon: "android"
   name: "Android Studio"
+- description: ''
+  icon_pack: "custom"
+  icon: "unity"
+  name: "Unity 3D"
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
