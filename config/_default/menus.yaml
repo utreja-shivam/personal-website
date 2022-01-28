@@ -13,15 +13,15 @@ main:
   - name: Projects
     url: '#projects'
     weight: 20
-  - name: Skills
-    url: '#skills'
-    weight: 30
   - name: Achievements
     url: '#accomplishments'
-    weight: 40
+    weight: 30
+  - name: Skills
+    url: '#skills'
+    weight: 90
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 100
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
