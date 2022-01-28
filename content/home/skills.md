@@ -21,8 +21,9 @@ feature:
   icon_pack: fab
   name: Python
 - description: ''
+  icon_pack:
   icon: pytorch
-  name: pytorch
+  name: Pytorch
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
