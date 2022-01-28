@@ -24,6 +24,14 @@ feature:
   icon_pack: "custom"
   icon: "pytorch"
   name: Pytorch
+- description: ''
+  icon_pack: "custom"
+  icon: "tensorflow"
+  name: Tensorflow
+- description: ''
+  icon_pack: "custom"
+  icon: "huggingface"
+  name: Transformers
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
