@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: uploads/resume.pdf
-  date_end: ""
-  date_start: "2021-01-25"
-  description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+- certificate_url: 
+  date_end: "2017"
+  date_start: "2015"
+  description: "Recieved the academic excellence award for two consecutive years."
+  organization: IIT Kanpur
+  organization_url: https://www.iitk.ac.in/
+  title: Academic Excellence Awardee
   url: ""
 
 design:
