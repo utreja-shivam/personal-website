@@ -35,9 +35,17 @@ item:
   date_end: 
   date_start: "2015-06-01"
   description: ''
-  organization: IIT Kanpur
-  organization_url: https://www.iitk.ac.in/
-  title: IIT-JEE | All India Rank 535
+  organization: Council of IITs
+  organization_url: https://www.iitsystem.ac.in/
+  title: IIT-JEE All India Rank 535
+  url: ""
+- certificate_url: 
+  date_end: 
+  date_start: "2014-11-01"
+  description: ''
+  organization: Kishore Vaigyanik Protsahan Yojana (KVPY)
+  organization_url: http://www.kvpy.iisc.ernet.in/main/index.htm
+  title: Participant at the National Science Camp
   url: ""
 
 design:
