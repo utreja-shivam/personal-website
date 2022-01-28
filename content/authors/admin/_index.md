@@ -18,8 +18,10 @@ bio: Machine learning enthusiast.
 
 # Interests to show in About widget
 interests:
-- Machine Learning
+- Artificial Intelligence
 - Computer Vision
+- Data Mining
+- Machine Learning
 - Natural Language Processing
 
 # Education to show in About widget
