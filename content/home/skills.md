@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title: Skills
+title: Technical Skills
 subtitle:
 # active: false
 # Showcase personal skills or business features.
@@ -36,6 +36,10 @@ feature:
   icon_pack: "custom"
   icon: "scikit"
   name: Scikit Learn
+- description: ''
+  icon_pack: "custom"
+  icon: "opencv"
+  name: OpenCV
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
