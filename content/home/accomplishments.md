@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: 
+- certificate_url: uploads/excellence.pdf
   date_end: "2017-05-01"
   date_start: "2015-07-01"
   description: ''
@@ -31,7 +31,7 @@ item:
   organization_url: https://www.iitk.ac.in/
   title: Academic Excellence Awardee
   url: ""
-- certificate_url: 
+- certificate_url: uploads/jee.pdf
   date_end: 
   date_start: "2015-06-01"
   description: ''
@@ -55,13 +55,13 @@ item:
   organization_url: http://www.kvpy.iisc.ernet.in/main/index.htm
   title: Young Scientist Awardee (KVPY Scholar)
   url: ""
-- certificate_url: 
+- certificate_url: uploads/ntse.pdf
   date_end: 
   date_start: "2013-05-01"
   description: ''
   organization: National Council of Educational Research and Training (NCERT)
   organization_url: https://ncert.nic.in/national-talent-examination.php
-  title: National Talent Scholarship Recipient
+  title: National Talent Scholarship (NTSE) Recipient
   url: ""
 
 design:
