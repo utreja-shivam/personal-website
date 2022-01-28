@@ -53,8 +53,8 @@ feature:
   icon: "android"
   name: "Android Studio"
 - description: ''
-  icon_pack: "custom"
-  icon: "unity"
+  icon_pack: ai
+  icon: unity
   name: "Unity 3D"
 
 # Uncomment to use emoji icons.
