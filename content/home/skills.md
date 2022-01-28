@@ -50,6 +50,10 @@ feature:
   name: OpenCV
 - description: ''
   icon_pack: "custom"
+  icon: "numpy"
+  name: Scipy/Numpy
+- description: ''
+  icon_pack: "custom"
   icon: "android"
   name: "Android Studio"
 - description: ''
