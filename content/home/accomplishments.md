@@ -31,6 +31,14 @@ item:
   organization_url: https://www.iitk.ac.in/
   title: Academic Excellence Awardee
   url: ""
+- certificate_url: 
+  date_end: 
+  date_start: "2015-06-01"
+  description: ''
+  organization: IIT Kanpur
+  organization_url: https://www.iitk.ac.in/
+  title: IIT-JEE | All India Rank 535
+  url: ""
 
 design:
   columns: '2' 
