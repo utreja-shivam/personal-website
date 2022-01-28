@@ -45,7 +45,23 @@ item:
   description: ''
   organization: Kishore Vaigyanik Protsahan Yojana (KVPY)
   organization_url: http://www.kvpy.iisc.ernet.in/main/index.htm
-  title: Participant at the National Science Camp
+  title: Participant at the National Science (Vijyoshi) Camp
+  url: ""
+- certificate_url: 
+  date_end: 
+  date_start: "2014-04-01"
+  description: ''
+  organization: Kishore Vaigyanik Protsahan Yojana (KVPY)
+  organization_url: http://www.kvpy.iisc.ernet.in/main/index.htm
+  title: Young Scientist Awardee (KVPY Scholar)
+  url: ""
+- certificate_url: 
+  date_end: 
+  date_start: "2013-05-01"
+  description: ''
+  organization: National Council of Educational Research and Training (NCERT)
+  organization_url: https://ncert.nic.in/national-talent-examination.php
+  title: National Talent Scholarship Recipient
   url: ""
 
 design:
