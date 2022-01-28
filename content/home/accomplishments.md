@@ -26,7 +26,7 @@ item:
 - certificate_url: 
   date_end: "2017"
   date_start: "2015"
-  description: "Recieved the academic excellence award for two consecutive years."
+  description: ''
   organization: IIT Kanpur
   organization_url: https://www.iitk.ac.in/
   title: Academic Excellence Awardee
