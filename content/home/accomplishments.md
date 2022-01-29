@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: uploads/excellence.pdf
+- certificate_url: uploads/cert-excellence.pdf
   date_end: "2017-05-01"
   date_start: "2015-07-01"
   description: ''
@@ -31,7 +31,7 @@ item:
   organization_url: https://www.iitk.ac.in/
   title: Academic Excellence Awardee
   url: ""
-- certificate_url: uploads/jee.pdf
+- certificate_url: uploads/cert-jee.pdf
   date_end: 
   date_start: "2015-06-01"
   description: ''
@@ -39,7 +39,7 @@ item:
   organization_url: https://www.iitsystem.ac.in/
   title: IIT-JEE All India Rank 535
   url: ""
-- certificate_url: uploads/vijyoshi.pdf
+- certificate_url: uploads/cert-vijyoshi.pdf
   date_end: 
   date_start: "2014-11-01"
   description: ''
@@ -47,7 +47,7 @@ item:
   organization_url: http://www.kvpy.iisc.ernet.in/main/index.htm
   title: Participant at the National Science (Vijyoshi) Camp
   url: ""
-- certificate_url: uploads/kvpy.pdf
+- certificate_url: uploads/cert-kvpy.pdf
   date_end: 
   date_start: "2014-04-01"
   description: ''
@@ -55,7 +55,7 @@ item:
   organization_url: http://www.kvpy.iisc.ernet.in/main/index.htm
   title: Young Scientist Awardee (KVPY Scholar)
   url: ""
-- certificate_url: uploads/ntse.pdf
+- certificate_url: uploads/cert-ntse.pdf
   date_end: 
   date_start: "2013-05-01"
   description: ''
