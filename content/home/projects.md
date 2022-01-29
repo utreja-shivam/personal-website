@@ -31,12 +31,12 @@ content:
     tag: 'Computer Vision'
   - name: Deep Learning
     tag: 'Deep Learning'
-  - name: Natural Language Processing
+  - name: NLP
     tag: 'NLP'
   - name: Mobile Computing
     tag: 'Mobile Computing'
-  - name: Miscellaneous
-    tag: 'Miscellaneous'
+  - name: Other
+    tag: 'Other'
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
