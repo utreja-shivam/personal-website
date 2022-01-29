@@ -39,7 +39,7 @@ item:
   organization_url: https://www.iitsystem.ac.in/
   title: IIT-JEE All India Rank 535
   url: ""
-- certificate_url: 
+- certificate_url: uploads/vijyoshi.pdf
   date_end: 
   date_start: "2014-11-01"
   description: ''
