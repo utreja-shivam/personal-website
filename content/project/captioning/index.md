@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Image Captioning using Recurrent Architectures"
-summary: ""
+summary: "Implemented Vanilla RNN and LSTM networks in python, that artificially generate captions for input images."
 authors: []
 tags: ["NLP", "Python", "Scipy", "Numpy"]
 categories: []
