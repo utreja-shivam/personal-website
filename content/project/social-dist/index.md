@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Social Distancing App"
-summary: ""
+summary: "Designed an Android app that combines GPS and Bluetooth information to help the user identify surrounding regions of high human density."
 authors: []
 tags: ["Mobile Computing", "Android Studio"]
 categories: []

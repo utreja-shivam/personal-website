@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Image Stitching using SIFT Features"
-summary: ""
+summary: "Implemented an image stitching method which first, detects keypoints in the two images using a blob detector and SIFT features. It then uses these keypoints to perform the RANSAC algorithm, which estimates the best affine transform between the pairs of images."
 authors: []
 tags: ["Computer Vision", "Python", "OpenCV", "Scipy", "Numpy"]
 categories: []

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Real Time Sentiment Analysis"
-summary: ""
+summary: "Designed a machine learning algorithm that uses a convolutional neural network to detect the emotion of a facial image input. The output is one emotion out of a set of 7 possible emotions. Best performance achieved was a top 2 precision of 71%."
 authors: []
 tags: ["Computer Vision", "Python", "OpenCV", "Tensorflow"]
 categories: []

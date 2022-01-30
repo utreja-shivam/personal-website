@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Multimodal Sentiment Classification"
-summary: ""
+summary: "Experimented with several state of the art unimodal and multimodal neural nets to identify sentiment using both, visual and textual modalities. Achieved 70.42% accuracy on hateful meme detection and 88.25% on sarcastic tweet detection (using ViLBERT and MMBT respectively)."
 authors: []
 tags: ["NLP", "Python", "Pytorch", "Transformers"]
 categories: []

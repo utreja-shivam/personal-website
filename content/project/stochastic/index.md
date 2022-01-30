@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Scaling Mixed Membership Stochastic Blockmodels to Large Datasets"
-summary: ""
+summary: "Explored both, the generative story and inference methods for this probabilistic model for relational data. Also attempted scaling this method to large data-sets by exploring graph sub-sampling techniques and nested variational inference."
 authors: []
 tags: ["Other", "Probabilistic Modelling"]
 categories: []

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Majorization-Minimization in Large Scale ML"
-summary: ""
+summary: "Performed theoretical convergence analysis of Incremental MajorizationMinimization for machine learning problems. Implemented the same for both, convex and non-convex objective functions."
 authors: []
 tags: ["Other", "Python", "Scipy", "Numpy"]
 categories: []

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "One Shot Learning"
-summary: ""
+summary: "Implemented variations of Siamese networks and Matching networks for one-shot learning on the Omniglot and MNIST datasets. Achieved best accuracy of 85.63% on 20-way one-shot learning task, using the matching network architecture."
 authors: []
 tags: ["Deep Learning", "Python", "Pytorch"]
 categories: []

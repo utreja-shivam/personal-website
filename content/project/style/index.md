@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Style Transfer using Neural Nets"
-summary: ""
+summary: "Implemented an algorithm that regenerates an input image in the style of an input painting. This method can potentially be used to create a wide variety of image filters."
 authors: []
 tags: ["Deep Learning", "Python", "Scipy", "Numpy"]
 categories: []

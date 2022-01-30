@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Localization in Wireless Sensor Networks"
-summary: ""
+summary: "Performed a literature survey of the various state-of-the-art techniques for wireless sensor netowrk localization. Compared and contrasted methods that used physical network coding, with those that utilized deep learning for sensor localization."
 authors: []
 tags: ["Other"]
 categories: []

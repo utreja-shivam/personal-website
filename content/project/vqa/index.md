@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Visual Question Answering with Neural Nets over Graphs"
-summary: ""
+summary: "Implemented a method which builds separate graphs over image objects and question words; and then trains a neural network over these graphs for visual question answering."
 authors: []
 tags: ["NLP", "Neural Networks", "Python", "Pytorch", "NLTK Library"]
 categories: []

@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Identifying Tennis Actions from Video "
-summary: ""
+summary: "Implemented variations of recurrent and convolutional neural architectures for fine-tuned action classification in tennis, just using the player’s video. Achieved best average accuracy of 60% across 12 tennis strokes."
 authors: []
 tags: ["Computer Vision", "Python", "Tensorflow", "OpenCV"]
 categories: []
