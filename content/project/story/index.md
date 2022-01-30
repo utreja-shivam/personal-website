@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Project Name"
+title: "Coherent Story Generation Using Independent Plot Points"
 summary: ""
 authors: []
-tags: ["Computer Vision"]
+tags: ["NLP", "Python", "NLTK Library"]
 categories: []
 date: 2022-01-28T13:42:53+05:30
 

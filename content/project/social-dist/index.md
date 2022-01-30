@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Project Name"
+title: "Social Distancing App"
 summary: ""
 authors: []
-tags: ["Computer Vision"]
+tags: ["Mobile Computing", "Android Studio"]
 categories: []
 date: 2022-01-28T13:42:53+05:30
 

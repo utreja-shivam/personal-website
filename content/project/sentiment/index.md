@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Project Name"
+title: "Real Time Sentiment Analysis"
 summary: ""
 authors: []
-tags: ["Computer Vision"]
+tags: ["Computer Vision", "Python", "OpenCV", "Tensorflow"]
 categories: []
 date: 2022-01-28T13:42:53+05:30
 

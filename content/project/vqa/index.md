@@ -1,10 +1,10 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "My Project Name"
+title: "Visual Question Answering with Neural Nets over Graphs"
 summary: ""
 authors: []
-tags: ["Computer Vision"]
+tags: ["NLP", "Neural Networks", "Python", "Pytorch", "NLTK Library"]
 categories: []
 date: 2022-01-28T13:42:53+05:30
 
