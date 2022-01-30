@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Network Visualization & Fooling Neural Nets"
-summary: ""
+summary: "Implemented neural network visualization techniques such as saliency maps and class visualization, in Pytorch. Also implemented algorithms that generate images which can fool a state-of-the-art neural network classification model."
 authors: []
 tags: ["Deep Learning", "Python", "Scipy", "Numpy", "Pytorch"]
 categories: []

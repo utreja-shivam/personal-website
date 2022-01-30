@@ -2,7 +2,7 @@
 # Documentation: https://wowchemy.com/docs/managing-content/
 
 title: "Generative Adversarial Networks (GANs)"
-summary: ""
+summary: "Implemented vanilla GAN, and its more nuanced variations. Used these networks to generate realistic handwritten digit images. This method can be extended further to create realistic facial images."
 authors: []
 tags: ["Deep Learning", "Python", "Scipy", "Numpy", "Pytorch"]
 categories: []
