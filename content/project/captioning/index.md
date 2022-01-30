@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Image Captioning"
+title: "Image Captioning using Recurrent Architectures"
 summary: ""
 authors: []
 tags: ["NLP", "Python", "Scipy", "Numpy"]
