@@ -15,7 +15,7 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "App shows markers based on density of people in immediate vicinity"
   focal_point: ""
   preview_only: false
 
@@ -27,10 +27,10 @@ image:
 #   icon_pack: fab
 #   icon: twitter
 
-url_code: ""
+url_code: "https://github.com/utreja-shivam/590U_A5"
 url_pdf: ""
 url_slides: ""
-url_video: ""
+url_video: "https://drive.google.com/file/d/1HJwab6mBSG171L6l8UbThQ9gEHgP9FT9/view"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
