@@ -39,3 +39,5 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+## Abstract
+One of the crucial problems in machine learning is optimizing sum of functions. Majorization-minimization(MM) is a very popular algorithm and often used due to its convergence guarantees even in non-convex cases (with some assumptions). However, its scalability is still an issue. With increasing data, several stochastic optimization algorithms have been developed to deal with the scale. But most of these algorithms suffer from slow convergence. We therefore present a scalable version of majorization-minimization, particularly focusing on “MISO” algorithm by J. Marial and analyze its convergence. We also compare it with state of the art algorithms and present our insights.
