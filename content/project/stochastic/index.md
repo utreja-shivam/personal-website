@@ -29,7 +29,7 @@ image:
 
 url_code: ""
 url_pdf: ""
-url_slides: ""
+url_slides: uploads/slides-stochastic.pdf
 url_video: ""
 
 # Slides (optional).

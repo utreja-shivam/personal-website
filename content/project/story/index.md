@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: "Coherent Story Generation Using Independent Plot Points"
+title: "Story Generation Using Independent Plot Points"
 summary: "Implemented statistical machine translation and plot graphs method for generating a coherent story from given independent plot points. The method using plot graphs performed much better, but the context of stories was very limited."
 authors: []
 tags: ["NLP", "Python", "NLTK Library"]
