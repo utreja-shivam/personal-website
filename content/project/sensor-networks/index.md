@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "A typical WSN Network with Anchor and Target Nodes"
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).

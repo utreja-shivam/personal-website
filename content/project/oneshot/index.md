@@ -15,8 +15,8 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
-  focal_point: ""
+  caption: "Training and testing the Siamese network for one-shot learning."
+  focal_point: "Center"
   preview_only: false
 
 # Custom links (optional).
