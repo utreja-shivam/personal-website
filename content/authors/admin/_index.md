@@ -66,7 +66,7 @@ email: ""
 highlight_name: true
 ---
 
-Completed my masters in computer science from UMass Amherst, with a focus on the artificial intelligence specialization. Graduated from the Indian Institute of Technology Kanpur in 2019 with distinction, with a major in Electrical Engineering and a minor in Machine Learning. Holds relevant course knowledge and project experience from several technologically relevant fields of AI, and Computer Engineering in general - Computer Vision, Deep Learning, Natural Language Processing, Convex Optimization, Probabilistic Modelling, Image Processing and Data Mining to name a few.
+Completed my Masters in Computer Science from University of Massachusetts Amherst, with a focus on the Artificial Intelligence specialization. Graduated from the Indian Institute of Technology Kanpur in 2019 with distinction; earning a major in Electrical Engineering and a minor in Machine Learning. Holds relevant course knowledge and project experience from several technologically relevant fields of AI and Computer Engineering in general - Computer Vision, Deep Learning, Natural Language Processing, Convex Optimization, Probabilistic Modelling, Image Processing and Data Mining to name a few.
 
 Actively looking for opportunities to contribute my skills towards the development of technologies that utilize data to enhance quality of life.
 
