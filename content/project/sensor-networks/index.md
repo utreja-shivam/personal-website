@@ -39,3 +39,8 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+## Abstract
+
+Wireless Sensor Networks are the heart of most IOT systems today. One of the central features of WSNs is to collect data and send it forward. However, the application of transmitted data is highly limited if the location of the nodes is not known. Many applications which involve visual, thermal, acoustic, seismic, or other type of data rely heavily on location information to be attached with the data to ensure that it is significantly assimilated and responded to. Node localization plays a major role in the performance of WSNs. In this work, a summary of localization techniques has been provided with special focus on Physical Layer based Algorithms and the role of Artificial Intelligence in Node localization.
+
+**Key Terms:** Wireless Sensor Networks, Physical Layer Algorithms, Localization, Neural Networks, Deep Learning.
