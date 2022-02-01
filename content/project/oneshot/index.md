@@ -39,3 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+## Abstract
+
+The process of learning good features for machine learning applications can be very computationally expensive and may prove difficult in cases where little data is available. A prototypical example of this is the one-shot learning setting, in which we must correctly make predictions given only a single example of each new class. In this paper, we firstly explore Siamese Networks, a unique twin-network setting which is capable of checking how similar any two inputs are. The observed shortcomings of the model inspire us to explore a more robust model, Matching Networks, a neural network which uses recent advances in attention and memory that enable rapid learning. We then extend the models to the MNIST in addition to the standard Omniglot dataset they are trained on to check their robustness and achieve promising results.
