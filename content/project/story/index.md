@@ -53,4 +53,5 @@ Coherent story generation from independent descriptions, describing a scene or a
 
 **Approach II**
 
-Automatically selecting a sequence of events that meet a set of criteria and can be told as a story; Knowledge-intensive: Rely on a priori defined domain models about fictional worlds, including characters, places, and actions that can be performed.
+Automatically selecting a sequence of events that meet a set of criteria and can be told as a story.
+Knowledge-intensive: Rely on a priori defined domain models about fictional worlds, including characters, places, and actions that can be performed.
