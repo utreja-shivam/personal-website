@@ -30,7 +30,7 @@ education:
   - course: MS in Computer Science
     institution: University of Massachusetts Amherst
     year: 2021
-  - course: BTech in Electrical Electronics and Communication Engineering
+  - course: BTech in Electrical Engineering
     institution: Indian Institute of Technology Kanpur
     year: 2019
 
