@@ -40,3 +40,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+## Abstract
+
+Sports is a field with a huge abundance of high quality visual data. This data holds immense potential to be utilized with the state of the art techniques from computer vision and artificial intelligence, for a variety of tasks. One such task is of action recognition. In the general action recognition task in computer vision, each individual action is highly distinct and the action categories are coarse-grained. However, identifying different actions within a single sport requires a much more fine-tuned action categorization. This project’s main goal was to make an open source implementation of one such model, which recognizes fine-grained action categories in tennis, given the video input of the player. This was followed by experiments with the architecture choice, feature choice and finally, comparison of sequential processing of an LSTM with the time-independent processing, by a pre-trained CNN.
