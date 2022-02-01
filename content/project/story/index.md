@@ -39,3 +39,18 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+## Abstract
+
+Story generation has always been associated with creative minds and sound writers. However, with advancements in neural networks and learning algorithms, it has now become possible for computers to mimic writing styles and synthesise stories. Our work requires the AI agent to finish stories based on open plot lines supplied to it. The only constraint is that the story should be coherent and readable.
+
+## Problem Statement
+
+We aim to generate a logically coherent story through intermediate plot points.We intend to use a possible combination of the two approaches mentioned in literature review as per their merits. The dataset description of each of these approaches are also given in the following sections. Story Generation is perceived in many different ways today. We have worked on two different approaches as follows:
+
+**Approach I**
+
+Coherent story generation from independent descriptions, describing a scene or an event.
+
+**Approach II**
+
+Automatically selecting a sequence of events that meet a set of criteria and can be told as a story; Knowledge-intensive: Rely on a priori defined domain models about fictional worlds, including characters, places, and actions that can be performed.
