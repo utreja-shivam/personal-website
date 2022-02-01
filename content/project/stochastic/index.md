@@ -39,3 +39,10 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+## Abstract
+
+Relational data is ubiquitious nowadays and models to handle such data are thus important to study. In this project, we explore Mixed Membership Stochastic Blockmodels in detail starting from scratch and exploring ways to achieve scalability over baseline implementations. To better report our results, we implement the baseline approach and a few scalable approaches to MMSB, for a qualitative comparison.
+
+## Problem Statement
+
+Given real-world relational datasets, like the US patent dataset or the dataset on scientific articles; we wish to identify the underlying community structure i.e., clusters of densely connected nodes. In order to do this, we first propose a probabilistic generative story for this kind of data, followed by proposing methods to learn the parameters of this model efficiently.
