@@ -39,3 +39,6 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+## Abstract
+
+Visual question answering (VQA) is an essential method in extracting useful information from image and video data. This type of semantic analysis of visual data can be very pivotal in fields like human-machine interaction and robotics. Most methods on this task handle the language modelling and image modelling tasks separately which loses out on a lot of structural information. This report discusses a different approach, first suggested by Teney et al., in which we build graphs over the image objects and question words. These graphs are then processed with neural networks over graphs in order to capture the un-ordered nature of information in the images and the questions and then finally, identify correlations between the objects and the words most useful to the VQA task.
