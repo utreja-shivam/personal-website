@@ -47,7 +47,7 @@ item:
   organization_url: http://www.kvpy.iisc.ernet.in/main/index.htm
   title: Participant at the National Science (Vijyoshi) Camp
   url: ""
-- certificate_url: uploads/cert-kvpy.pdf
+- certificate_url: 
   date_end: 
   date_start: "2014-04-01"
   description: ''
